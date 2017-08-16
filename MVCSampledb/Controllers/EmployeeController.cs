@@ -68,7 +68,7 @@ namespace MVCSampledb.Controllers
         {
             try
             {
-                AdvancedSQlEntities DbContext = new AdvancedSQlEntities();
+                //AdvancedSQlEntities DbContext = new AdvancedSQlEntities();
                 // Employee employee = new Employee();
 
                 // employee = DbContext.Employees.Find(Id);
